@@ -44,7 +44,7 @@ codeunit 50110 GreetingsManagement
             31: exit('Tamil: வணக்கம்');
             32: exit('Sinhalese: ආයුබෝවන්');
             33: exit('Swahili: Salamu, Dunia');
-            34: exit('Catalan: Hola món');
+            34: exit('Català: Hola món');
             35: exit('Icelandic: Halló heimur');
             36: exit('Gaeilge: Dia duit an domhan');
             37: exit('Portuguese: Olá Mundo');
